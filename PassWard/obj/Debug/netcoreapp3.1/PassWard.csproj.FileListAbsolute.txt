@@ -1,0 +1,16 @@
+C:\Users\eliec\source\repos\PassWard\PassWard\bin\Debug\netcoreapp3.1\PassWard.exe
+C:\Users\eliec\source\repos\PassWard\PassWard\bin\Debug\netcoreapp3.1\PassWard.deps.json
+C:\Users\eliec\source\repos\PassWard\PassWard\bin\Debug\netcoreapp3.1\PassWard.runtimeconfig.json
+C:\Users\eliec\source\repos\PassWard\PassWard\bin\Debug\netcoreapp3.1\PassWard.runtimeconfig.dev.json
+C:\Users\eliec\source\repos\PassWard\PassWard\bin\Debug\netcoreapp3.1\PassWard.dll
+C:\Users\eliec\source\repos\PassWard\PassWard\bin\Debug\netcoreapp3.1\PassWard.pdb
+C:\Users\eliec\source\repos\PassWard\PassWard\obj\Debug\netcoreapp3.1\PassWard.csprojAssemblyReference.cache
+C:\Users\eliec\source\repos\PassWard\PassWard\obj\Debug\netcoreapp3.1\PassWard.Properties.Resources.resources
+C:\Users\eliec\source\repos\PassWard\PassWard\obj\Debug\netcoreapp3.1\PassWard.csproj.GenerateResource.cache
+C:\Users\eliec\source\repos\PassWard\PassWard\obj\Debug\netcoreapp3.1\PassWard.AssemblyInfoInputs.cache
+C:\Users\eliec\source\repos\PassWard\PassWard\obj\Debug\netcoreapp3.1\PassWard.AssemblyInfo.cs
+C:\Users\eliec\source\repos\PassWard\PassWard\obj\Debug\netcoreapp3.1\PassWard.csproj.CoreCompileInputs.cache
+C:\Users\eliec\source\repos\PassWard\PassWard\obj\Debug\netcoreapp3.1\PassWard.dll
+C:\Users\eliec\source\repos\PassWard\PassWard\obj\Debug\netcoreapp3.1\PassWard.pdb
+C:\Users\eliec\source\repos\PassWard\PassWard\obj\Debug\netcoreapp3.1\PassWard.genruntimeconfig.cache
+C:\Users\eliec\source\repos\PassWard\PassWard\obj\Debug\netcoreapp3.1\PassWard.Main.resources
